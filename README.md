@@ -19,7 +19,3 @@
 | **The Salvation** | `Rust` | **Currently Mastering** 🦀 |
 
 ---
-
-<p align="center">
-  "Life is better when your compiler is your best friend, not your enemy."
-</p>
